@@ -1,0 +1,9 @@
+@article{REPO181,
+    author = "Li, Genghui and Zhang, Qingfu and Lin, Qiuzhen and Gao, Weifeng",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "7",
+    pages = "5720-5731",
+    title = "{A Three-Level Radial Basis Function Method for Expensive Optimization}",
+    volume = "52",
+    year = "2022"
+}
